@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Adriana\\Documents\\GitHub\\finales\\Actividad6\\ApiEjemplo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E1E857-907E-49BA-805B-19FD87A6C2BE}|ApiEjemplo\\ApiEjemplo.csproj|c:\\users\\adriana\\documents\\github\\finales\\actividad6\\apiejemplo\\apiejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E1E857-907E-49BA-805B-19FD87A6C2BE}|ApiEjemplo\\ApiEjemplo.csproj|solutionrelative:apiejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adriana\\Documents\\GitHub\\finales\\Actividad6\\ApiEjemplo\\ApiEjemplo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiEjemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Adriana\\Documents\\GitHub\\finales\\Actividad6\\ApiEjemplo\\ApiEjemplo\\Program.cs",
+              "RelativeToolTip": "ApiEjemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:05:22.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
